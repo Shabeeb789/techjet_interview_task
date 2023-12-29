@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "18677855550",
+    "project_id": "bengaluru-interview",
+    "storage_bucket": "bengaluru-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18677855550:android:76e8a0ff1892f67e26286f",
+        "android_client_info": {
+          "package_name": "com.example.interview_task_bengaluru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18677855550-t4gu50mnpgcmpt8ogq20bjbkv7a6c12i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interview_task_bengaluru",
+            "certificate_hash": "2f57d157933ff8e2ab4f6a96bbf0b7c742eaddbf"
+          }
+        },
+        {
+          "client_id": "18677855550-18mmq3k6q6ah9qgaaltkjofcqpopcqb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WaW1GKUpR4vTnMeQWUegjw2lLvrW4eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18677855550-18mmq3k6q6ah9qgaaltkjofcqpopcqb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18677855550-ketsp1u48h39kbisno7okulk365v9hr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.interviewTaskBengaluru.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
